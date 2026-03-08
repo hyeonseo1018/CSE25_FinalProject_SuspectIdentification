@@ -1,0 +1,5 @@
+## depandency
+
+```
+pip install torchreid
+```
