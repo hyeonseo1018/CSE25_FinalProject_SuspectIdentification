@@ -1,3 +1,5 @@
+# CSE25 Final Project
+Identicate Suspect from given video
 ## Dependency
 ### install torchreid
 
@@ -26,5 +28,8 @@ python setup.py develop
 
 # Two Steps to run
 ## Step 1 : Pedestrian detection by YOLOv8 --> Pedestrain_Detection.ipynb
+<img width="1680" height="947" alt="image" src="https://github.com/user-attachments/assets/00452112-865b-40f4-8a0c-b54145d13199" />
 
 ## Step 2 : Person re-identification by torchreid --> Suspect_Identification.ipynb
+<img width="1646" height="1176" alt="image" src="https://github.com/user-attachments/assets/54dd0559-be0a-4477-8902-ec830459b8f2" />
+
