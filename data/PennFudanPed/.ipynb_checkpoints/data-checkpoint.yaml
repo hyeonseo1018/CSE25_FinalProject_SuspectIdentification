@@ -1,0 +1,6 @@
+path: /home/h8an/cse25-wi26/Final Project/Suspect_identification/data/PennFudanPed
+train: train/images
+val: valid/images
+
+nc: 1
+names: ['Person']
